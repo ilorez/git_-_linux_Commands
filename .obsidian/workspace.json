@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "926b327d8fd4a4e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9ac901db8ba35995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "7c1f99075d54ddad",
         "type": "tabs",
         "children": [
@@ -29,8 +11,10 @@
             "id": "0a68173db2f49657",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "linux/linux-commands-cheat-sheet-pdf.pdf"
+              }
             }
           }
         ]
@@ -99,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/linux-commands-cheat-sheet-pdf.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux/linux-commands-cheat-sheet-pdf.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linux/linux-commands-cheat-sheet-pdf.pdf"
+              }
             }
           }
         ]
@@ -158,6 +146,8 @@
   },
   "active": "0a68173db2f49657",
   "lastOpenFiles": [
+    "git/git-cheat-sheet-education.pdf",
+    "git/Git Command Table.md",
     "Welcome.md"
   ]
 }
